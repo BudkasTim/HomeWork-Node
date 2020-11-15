@@ -10,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^6.3.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BudkasTim/HomeWork-Node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BudkasTim/HomeWork-Node/issues"
+  },
+  "homepage": "https://github.com/BudkasTim/HomeWork-Node#readme",
+  "keywords": []
 }
